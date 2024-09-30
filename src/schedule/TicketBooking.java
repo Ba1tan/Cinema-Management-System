@@ -7,8 +7,6 @@ public class TicketBooking {
     private String seatNumber;
     private List<String> snackCombos;
 
-    // Getters and setters for movieTitle, seatNumber, snackCombos
-
     public String getMovieTitle() {
         return movieTitle;
     }
