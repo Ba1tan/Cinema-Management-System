@@ -1,5 +1,6 @@
 package main;
 
+import booking.*;
 import config.CinemaConfig;
 import movie.*;
 import ui.*;

@@ -1,4 +1,4 @@
-package schedule;
+package booking;
 
 import java.util.List;
 
