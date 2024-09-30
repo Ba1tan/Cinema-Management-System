@@ -1,3 +1,5 @@
+package movie;
+
 class IMAXMovie implements Movie {
     private String title;
 
@@ -10,6 +12,6 @@ class IMAXMovie implements Movie {
     }
 
     public String getType() {
-        return "IMAX Movie";
+        return "IMAX movie.Movie";
     }
 }

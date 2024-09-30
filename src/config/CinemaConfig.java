@@ -1,3 +1,5 @@
+package config;
+
 public class CinemaConfig
 {
     private static CinemaConfig instance;

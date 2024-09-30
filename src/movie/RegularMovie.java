@@ -1,3 +1,5 @@
+package movie;
+
 class RegularMovie implements Movie {
     private String title;
 
